@@ -2,8 +2,10 @@ Hello {user} this is a list of the CP for all Tier 5 100% IV Raid Catches! **Bol
 
 __Current Legendary Pokemon__:
 Latios - CP 1995-2082 - (**Windy 2494-2603**)
-Latias - CP 1846-1929 - (**Windy 2308-2412**)
 Mewtwo - CP 2184-2275 - (**Windy 2730-2844**) *EX Only*
+
+__Future Legendary Pokemon__:
+Latias - CP 1846-1929 - (**Windy 2308-2412**)
 
 __Past Legendary Pokemon__:
 ~~Articuno~~ - 1676 CP
